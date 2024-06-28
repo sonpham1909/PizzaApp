@@ -8,13 +8,17 @@ buildscript {
         kotlinVersion = "1.8.0"
     }
     repositories {
+
         google()
         mavenCentral()
+        maven { url "https://dl.bintray.com/oblador/maven" }
     }
     dependencies {
         classpath("com.android.tools.build:gradle")
         classpath("com.facebook.react:react-native-gradle-plugin")
         classpath("org.jetbrains.kotlin:kotlin-gradle-plugin")
+        classpath "com.google.gms:google-services:4.4.1"
+
     }
 }
 

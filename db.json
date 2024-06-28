@@ -1,0 +1,119 @@
+{
+  "products": [
+    {
+      "id": "3",
+      "title": "pizza hải sản",
+      "price": "3243",
+      "loai": "pizza",
+      "image": "https://i.pinimg.com/originals/4a/ca/26/4aca26d54f0ef861bfb66950b8ea8953.jpg",
+      "deception": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "fv": true,
+      "quanlity": 2
+    },
+    {
+      "id": "2",
+      "fv": true,
+      "loai": "pizza",
+      "title": "Pizza bò lát",
+      "price": "3243",
+      "image": "http://4.bp.blogspot.com/-8yZs1WfoA_Y/UVWwfIAslTI/AAAAAAAACds/GDjk6fGSwOY/s1600/BLTpizza6.jpg",
+      "deception": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "1",
+      "fv": false,
+      "loai": "pizza",
+      "title": "pizza phô mai",
+      "price": "3243",
+      "image": "https://www.newviet.net/wp-content/uploads/2021/12/image1.png",
+      "deception": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "5",
+      "fv": false,
+      "loai": "soda",
+      "title": "Pepsi Lạnh",
+      "price": "3243",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.2CJQ_OyDf1VlSH31EhEMEQHaEK&pid=Api&P=0&h=220",
+      "deception": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "6",
+      "fv": true,
+      "loai": "soda",
+      "title": "Coca Lạnh",
+      "price": "100043",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.wAI5glb1Oaz9zLZkSfe3yAHaEl&pid=Api&P=0&h=220",
+      "deception": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "7",
+      "fv": false,
+      "loai": "soda",
+      "title": "Fanta Lạnh",
+      "price": "10000",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.xkax4af14-_-FNqSylFD5QHaLI&pid=Api&P=0&h=220",
+      "deception": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "8",
+      "fv": false,
+      "loai": "combo",
+      "title": "[combo] Pizza cà chua và 1 coca",
+      "price": "125000",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.GDqMgJiW6AVYyylWpqgyeAHaFG&pid=Api&P=0&h=220",
+      "deception": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "9",
+      "fv": false,
+      "loai": "combo",
+      "title": "[combo] Pizza và pepsi ",
+      "price": "125000",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.V60LO9c3wJsV98S6XNPCOAHaF7&pid=Api&P=0&h=220",
+      "deception": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "10",
+      "loai": "combo",
+      "quanlity": 2,
+      "fv": false,
+      "title": "[combo] Pizza hải sản và pizza cà chua",
+      "price": "220000",
+      "image": "https://image.pngaaa.com/86/648086-middle.png",
+      "deception": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    }
+  ],
+  "cart": [
+    {
+      "id": "9",
+      "fv": true,
+      "loai": "combo",
+      "title": "[combo] Pizza và pepsi ",
+      "price": "125000",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.V60LO9c3wJsV98S6XNPCOAHaF7&pid=Api&P=0&h=220",
+      "deception": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "quanlity": 3
+    },
+    {
+      "id": "10",
+      "loai": "combo",
+      "quanlity": 2,
+      "fv": false,
+      "title": "[combo] Pizza hải sản và pizza cà chua",
+      "price": "220000",
+      "image": "https://image.pngaaa.com/86/648086-middle.png",
+      "deception": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "3",
+      "title": "pizza hải sản",
+      "price": "3243",
+      "loai": "pizza",
+      "image": "https://i.pinimg.com/originals/4a/ca/26/4aca26d54f0ef861bfb66950b8ea8953.jpg",
+      "deception": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "fv": false,
+      "quanlity": 1
+    }
+  ]
+}
